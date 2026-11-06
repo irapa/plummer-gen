@@ -1,0 +1,13 @@
+# Modelo de Ômega Centauri usado no artigo (RBEF):
+# 4x10^4 estrelas de 125 Msun, a = 4 pc, truncado em 26,37 pc (6,6a).
+# Uso: python -m plummer examples/omega_cen.txt
+
+n = 40000
+mass = 5.0e6           # Msun
+a = 4.0                # pc
+rmax = 26.36698        # pc
+virialize = True       # reescala as velocidades para Q = 0,5
+seed = 20241105
+units = "astro"        # Msun, pc, km/s
+output = "omega_cen"
+formats = ["ascii", "nbody6", "gadget"]

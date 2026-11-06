@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Se usar este programa, por favor cite-o como abaixo."
+title: "plummer-gen: gerador de esferas de Plummer para simulações de N-corpos"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Moraes
+    given-names: Stephanie
+  - family-names: Rodrigues
+    given-names: Irapuan
+references:
+  - type: article
+    authors:
+      - family-names: Aarseth
+        given-names: S. J.
+      - family-names: Hénon
+        given-names: M.
+      - family-names: Wielen
+        given-names: R.
+    title: "A Comparison of Numerical Methods for the Study of Star Cluster Dynamics"
+    journal: "Astronomy and Astrophysics"
+    volume: 37
+    start: 183
+    end: 187
+    year: 1974
