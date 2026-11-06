@@ -1,5 +1,7 @@
 # plummer-gen
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24015458.svg)](https://doi.org/10.5281/zenodo.24015458)
+
 Gerador de condições iniciais de esferas de Plummer isotrópicas para
 simulações de N-corpos. Implementa o algoritmo de Aarseth, Hénon & Wielen
 (1974) e acompanha o artigo
@@ -80,3 +82,9 @@ and quality checks against the analytic model. See the paper above.
 ## Licença
 
 MIT. Veja `LICENSE`. Para citar, veja `CITATION.cff`.
+
+## Como citar
+
+S. Moraes e I. Rodrigues, *plummer-gen: gerador de esferas de Plummer
+para simulações de N-corpos*, v1.0.0, Zenodo (2026),
+[doi:10.5281/zenodo.24015458](https://doi.org/10.5281/zenodo.24015458).

@@ -3,6 +3,9 @@ message: "Se usar este programa, por favor cite-o como abaixo."
 title: "plummer-gen: gerador de esferas de Plummer para simulações de N-corpos"
 version: 1.0.0
 license: MIT
+doi: 10.5281/zenodo.24015458
+repository-code: "https://github.com/irapa/plummer-gen"
+date-released: 2026-11-06
 authors:
   - family-names: Moraes
     given-names: Stephanie
